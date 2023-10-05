@@ -1,0 +1,14 @@
+/Codigo/LabManager/Core/obj
+/Codigo/LabManager/Core/bin
+/Codigo/LabManager/LabManagerApi/bin
+/Codigo/LabManager/LabManagerApi/obj
+/Codigo/LabManager/LabManagerWeb/obj
+/Codigo/LabManager/LabManagerWeb/bin
+/Codigo/LabManager/Service/bin
+/Codigo/LabManager/Service/obj
+/Codigo/LabManager/Util/bin
+/Codigo/LabManager/Util/obj
+/Codigo/LabManager/.vs
+/Codigo/LabManagerClient/.vs
+/Codigo/LabManagerClient/LabManagerClient/obj
+/Codigo/LabManagerClient/LabManagerClient/bin
